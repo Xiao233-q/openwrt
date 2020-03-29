@@ -4,10 +4,10 @@
 # 
 # Copyright (C) 2019 KFERMercer <KFER.Mercer@gmail.com>
 # 
-# <https://github.com/KFERMercer/OpenWrt-CI>
+# <https://git.openwrt.org/openwrt/openwrt.git>
 # 
 
-name: OpenWrt-CI
+name: OpenWrt-新手
 
 on:
   schedule:
